@@ -1,5 +1,5 @@
 {
-  "name": "z6",
+  "name": "z6-cli",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,8 +11,7 @@
   "author": "",
   "license": "ISC",
   "keywords": [
-    "z6-cli",
-    "z6"
+    "z6-cli"
   ],
   "dependencies": {
     "axios": "^0.26.1",
